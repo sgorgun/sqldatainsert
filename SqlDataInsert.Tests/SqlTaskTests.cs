@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using Microsoft.Data.Sqlite;
 using System.IO;
-using SqlDataInsert.Tests.Helpers;
+using AutocodeDB.Helpers;
 using System;
 
 namespace SqlDataInsert.Tests
@@ -11,7 +11,7 @@ namespace SqlDataInsert.Tests
     {
         private const string QueriesFileName = "insert.sql";
         private static readonly string QueriesFile = SqlTask.GetQueriesFullPath(QueriesFileName);
-        private static readonly string[] Queries = QueryHelper.GetAllQueries(QueriesFile);
+        private static readonly string[] Queries = QueryHelper.GetQueries(QueriesFile);
 
         [OneTimeSetUp]
         public void Setup()

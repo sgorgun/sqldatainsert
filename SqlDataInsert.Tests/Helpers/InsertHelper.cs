@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace SqlDataInsert.Tests.Helpers
+namespace AutocodeDB.Helpers
 {
     internal static class InsertHelper
     {
