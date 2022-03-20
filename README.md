@@ -24,7 +24,7 @@ Write INSERT statements to fill all tables (see DB scheme in file **sql_queries*
 
 Supermarkets sell goods of various categories. The customers can shop anonymously or by logging in. When buying, a receipt is created with a list of goods purchased in a particular market. 
 
-![DBScheme](/SqlDataInsert/sql_queries/DBScheme.jpg)
+![DBScheme](/SqlDataInsert/sql_queries/DBSchema.jpg)
 
 ### How to complete task solution
 
