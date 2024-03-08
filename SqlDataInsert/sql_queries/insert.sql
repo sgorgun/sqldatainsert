@@ -68,8 +68,24 @@ INSERT INTO person_contact (person_id, contact_type_id, contact_value) VALUES
     (7, 2, '1111111111'),
     (8, 1, 'person8@email.com'),
     (9, 2, '9999999999'),
+    (8, 1, 'person8@email.com'),
+    (9, 2, '9999999999'),
     (10, 1, 'person10@email.com'),
-    (10, 2, '8888888888');
+    (10, 2, '1099999999'),
+    (11, 1, 'person11@email.com'),
+    (11, 2, '1199999999'),
+    (12, 1, 'person12@email.com'),
+    (12, 2, '1299999999'),
+    (13, 1, 'person13@email.com'),
+    (13, 2, '1399999999'),
+    (14, 1, 'person14@email.com'),
+    (14, 2, '1499999999'),
+    (15, 1, 'person15@email.com'),
+    (15, 2, '1599999999'),
+    (16, 1, 'person16@email.com'),
+    (16, 2, '1699999999'),
+    (17, 1, 'person17@email.com'),
+    (17, 2, '1788888888');
 
 INSERT INTO product_category (name) VALUES
     ('fruits'),
