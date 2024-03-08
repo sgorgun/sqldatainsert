@@ -29,7 +29,17 @@ INSERT INTO person (name, surname, birth_date) VALUES
 	('Name7', 'Surname7', '1990-01-07'),
 	('Name8', 'Surname8', '1990-01-08'),
 	('Name9', 'Surname9', '1990-01-09'),
-	('Name10', 'Surname10', '1990-01-10');
+	('Name10', 'Surname10', '1990-01-10'),
+	('Name11', 'Surname11', '1990-01-11'),
+	('Name12', 'Surname12', '1990-01-12'),
+	('Name13', 'Surname13', '1990-01-13'),
+	('Name14', 'Surname14', '1990-01-14'),
+	('Name15', 'Surname15', '1990-01-15'),
+	('Name16', 'Surname16', '1990-01-16'),
+	('Name17', 'Surname17', '1990-01-17'),
+	('Name18', 'Surname18', '1990-01-18'),
+	('Name19', 'Surname19', '1990-01-19'),
+	('Name20', 'Surname20', '1990-01-20');
 
 INSERT INTO customer (card_number, discount) VALUES
     ('4312412134', 0.3),
